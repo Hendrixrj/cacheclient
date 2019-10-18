@@ -21,7 +21,7 @@ setup(
     packages=['cache'],
     keywords=['python', 'cache'],
     install_requires=[
-        'requests==2.18.4',
+        'requests==2.20.0',
         'urllib3==1.22',
         'ipdb',
     ],
